@@ -1,4 +1,4 @@
-flask
+streamlit
 transformers
 torch
 accelerate
